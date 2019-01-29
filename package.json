@@ -1,0 +1,39 @@
+{
+  "name": "wow-react-bash",
+  "version": "1.0.0",
+  "description": "基于 react-bash 的 web 命令行组件",
+  "keywords": [
+    "react",
+    "bash",
+    "web-bash",
+    "terminal"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweiu/wow-react-bash.git"
+  },
+  "author": "aweiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweiu/wow-react-bash/issues"
+  },
+  "homepage": "https://github.com/aweiu/wow-react-bash#readme",
+  "peerDependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0"
+  },
+  "dependencies": {
+    "react-bash": "^1.6.0"
+  }
+}
