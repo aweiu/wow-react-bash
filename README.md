@@ -35,7 +35,7 @@ npm install wow-react-bash
   }
 }
 ```
-更多样式单元可参考[react-bash/styles.js](https://github.com/zackargyle/react-bash/blob/master/src/styles.js)
+更多样式单元可参考 [react-bash/styles.js](https://github.com/zackargyle/react-bash/blob/master/src/styles.js)
 
 ### extensions *增强
 * 支持异步命令和更好的异步交互
