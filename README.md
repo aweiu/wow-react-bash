@@ -19,7 +19,7 @@ npm install wow-react-bash
 
 ## Props
 ### history *移除
-请不要直接给该组件传递 history ，否则可能导致数据流异常。请使用[setHistory]()
+请不要直接给该组件传递 history ，否则可能导致数据流异常。请使用 [setHistory](#sethistory)
 
 ### styles *增强
 * 不会对你的样式文件造成污染
