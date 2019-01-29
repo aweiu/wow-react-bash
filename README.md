@@ -52,7 +52,7 @@ npm install wow-react-bash
        
        // 你可以返回一个用于终止此异步任务的函数，命令行会进入异步任务状态
        // 异步任务期间，其他自定义命令不会被执行
-       // ctrl + c 或 手动调用 kill 都会触发此函数
+       // ctrl + c 或 手动调用 kill 或 unmount 都会触发此函数
        // 支持 Promise
        return () => clearInterval(timer)
     }
